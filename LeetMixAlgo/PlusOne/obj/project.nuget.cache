@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IgbyV33JlFy21f8k+tFv6gbwflr6AOXkJqttVRl5gv27W45U6vOCQBPkyZdGe66fMVR3nkcWMcPF5wcXfzLJEQ==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/PlusOne.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

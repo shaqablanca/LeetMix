@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/bin/Debug/net7.0/LengthOfLastWord
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/bin/Debug/net7.0/LengthOfLastWord.deps.json
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/bin/Debug/net7.0/LengthOfLastWord.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/bin/Debug/net7.0/LengthOfLastWord.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/bin/Debug/net7.0/LengthOfLastWord.pdb
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/obj/Debug/net7.0/LengthOfLastWord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/obj/Debug/net7.0/LengthOfLastWord.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/obj/Debug/net7.0/LengthOfLastWord.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/obj/Debug/net7.0/LengthOfLastWord.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/obj/Debug/net7.0/LengthOfLastWord.sourcelink.json
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/obj/Debug/net7.0/LengthOfLastWord.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/obj/Debug/net7.0/refint/LengthOfLastWord.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/obj/Debug/net7.0/LengthOfLastWord.pdb
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/obj/Debug/net7.0/LengthOfLastWord.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LengthOfLastWord/obj/Debug/net7.0/ref/LengthOfLastWord.dll

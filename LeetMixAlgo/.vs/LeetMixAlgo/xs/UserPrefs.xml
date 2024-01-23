@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{B198B30A-3C1C-4B01-8CE0-49CB17B07143}|Default">
+  <MonoDevelop.Ide.ItemProperties.SlidingWindowAlgo.ContainsDuplicate FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PlusOne FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GeneralTest2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GeneralTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Test FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GeneralTest3 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.LengthOfLastWord FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GeneralTest2/Program.cs">
+    <Files>
+      <File FileName="LeetMixAlgo/Program.cs" Line="42" Column="7" />
+      <File FileName="GeneralTest2/Program.cs" Line="63" Column="2" />
+      <File FileName="LengthOfLastWord/Program.cs" Line="10" Column="1" />
+      <File FileName="Test/Program.cs" Line="20" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeetMixAlgo" expanded="True">
+            <Node name="SlidingWindowAlgo" selected="True" />
+            <Node name="GeneralTest" expanded="True" />
+            <Node name="GeneralTest2" expanded="True" />
+            <Node name="GeneralTest3" expanded="True" />
+            <Node name="LengthOfLastWord" expanded="True" />
+            <Node name="PlusOne" expanded="True" />
+            <Node name="Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

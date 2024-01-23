@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/bin/Debug/net7.0/GeneralTest
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/bin/Debug/net7.0/GeneralTest.deps.json
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/bin/Debug/net7.0/GeneralTest.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/bin/Debug/net7.0/GeneralTest.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/bin/Debug/net7.0/GeneralTest.pdb
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/obj/Debug/net7.0/GeneralTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/obj/Debug/net7.0/GeneralTest.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/obj/Debug/net7.0/GeneralTest.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/obj/Debug/net7.0/GeneralTest.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/obj/Debug/net7.0/GeneralTest.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/obj/Debug/net7.0/refint/GeneralTest.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/obj/Debug/net7.0/GeneralTest.pdb
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/obj/Debug/net7.0/GeneralTest.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/obj/Debug/net7.0/ref/GeneralTest.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/LeetMixAlgo/obj/Debug/net7.0/GeneralTest.sourcelink.json

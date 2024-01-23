@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+eMth9xQTDK2SLiZfA7og3Rm7B64702/FAROXrr657OMA+hETsNbJKwomnYUfq4A5NHhdDldgun8Mq0votgRiQ==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/Test/Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

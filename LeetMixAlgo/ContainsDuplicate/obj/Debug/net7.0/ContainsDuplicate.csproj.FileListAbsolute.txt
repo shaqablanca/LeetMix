@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.deps.json
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.pdb
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.sourcelink.json
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/obj/Debug/net7.0/refint/ContainsDuplicate.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.pdb
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/ContainsDuplicate/obj/Debug/net7.0/ref/ContainsDuplicate.dll

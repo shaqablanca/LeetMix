@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/obj/Debug/net7.0/PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/obj/Debug/net7.0/PlusOne.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/obj/Debug/net7.0/PlusOne.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/obj/Debug/net7.0/PlusOne.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/obj/Debug/net7.0/PlusOne.sourcelink.json
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/bin/Debug/net7.0/PlusOne
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/bin/Debug/net7.0/PlusOne.deps.json
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/bin/Debug/net7.0/PlusOne.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/bin/Debug/net7.0/PlusOne.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/bin/Debug/net7.0/PlusOne.pdb
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/obj/Debug/net7.0/PlusOne.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/obj/Debug/net7.0/refint/PlusOne.dll
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/obj/Debug/net7.0/PlusOne.pdb
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/obj/Debug/net7.0/PlusOne.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/LeetMix/LeetMixAlgo/PlusOne/obj/Debug/net7.0/ref/PlusOne.dll
